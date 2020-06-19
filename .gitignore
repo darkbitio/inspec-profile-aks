@@ -3,3 +3,5 @@
 inspec.lock
 .env
 *.sh
+*.yml
+*.yaml
